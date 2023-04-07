@@ -5,7 +5,7 @@ How to Play
 Run the Tic-tac-toe.py file using any Python environment.
 The first player will be assigned 'X' as their marker, and the second player will be assigned 'O'.
 To make a move, enter the number where you want to place your marker.
-
+```
 -------------
 | 0 | 1 | 2 |
 -------------
@@ -13,6 +13,6 @@ To make a move, enter the number where you want to place your marker.
 -------------
 | 6 | 7 | 8 |
 -------------
-
+```
 The game ends when one player gets three markers in a row (horizontally, vertically, or diagonally) or when all the spaces on the board are filled.
 To restart the game, simply run the tictactoe.py file again.
